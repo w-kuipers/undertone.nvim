@@ -83,8 +83,8 @@ function M.get(p, opts)
     -- core syntax
     Comment = { fg = p.faint },
     Constant = { fg = p.teal },
-    String = { fg = p.green },
-    Character = { fg = p.green },
+    String = { fg = p.clay },
+    Character = { fg = p.clay },
     Number = { fg = p.teal },
     Boolean = { fg = p.teal },
     Float = { fg = p.teal },

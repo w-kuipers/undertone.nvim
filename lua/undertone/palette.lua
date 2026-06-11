@@ -4,7 +4,7 @@
 
 local dark_accents = {
   peach = '#F5C49C',
-  green = '#AFC79E',
+  clay = '#DCA978',
   blue = '#A5B8CC',
   purple = '#BCA8C9',
   teal = '#9CC4B2',
@@ -16,7 +16,7 @@ local dark_accents = {
 
 local light_accents = {
   peach = '#B0703C',
-  green = '#5E7A50',
+  clay = '#9A6233',
   blue = '#5A6E8C',
   purple = '#80648E',
   teal = '#477A6E',

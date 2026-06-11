@@ -1,4 +1,4 @@
-# undertone
+# Undertone
 
 A near-monochrome theme for Neovim. The base is a warm gray ramp; strings,
 keywords, types, constants and functions get muted pastels, and everything
