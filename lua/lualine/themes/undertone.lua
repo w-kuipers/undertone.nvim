@@ -1,4 +1,6 @@
-local p = require 'undertone.palette'
+-- Follows the active variant; falls back to the configured one
+-- when lualine loads before the colorscheme.
+local p = require('undertone').palette()
 
 local mode = {
   a = { fg = p.bg, bg = p.bright, gui = 'bold' },

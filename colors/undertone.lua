@@ -2,4 +2,5 @@
 package.loaded['undertone.palette'] = nil
 package.loaded['undertone.groups'] = nil
 
+-- Loads the variant from setup(), 'default' unless configured.
 require('undertone').load()
